@@ -8,7 +8,7 @@ Resource   ../resource/Page/Home.robot
 
 
 *** Test Case ***
-#Vanderlan esta com sono 
+#Vanderlan esta com muito sono e chato e fabi nao deixa 
 Cenario 1: Checar busca com produto valido
     Dado que eu esteja na pagina home 
     Quando pesquiso por t-shirt 
